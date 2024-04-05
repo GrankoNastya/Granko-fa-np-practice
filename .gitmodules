@@ -235,3 +235,6 @@
 [submodule "Gra"]
 	path = Gra
 	url = https://github.com/GrankoNastya/Gra
+[submodule "7_TCP_server"]
+	path = 7_TCP_server
+	url = https://github.com/GrankoNastya/7_TCP_server
